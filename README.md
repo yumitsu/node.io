@@ -1,3 +1,5 @@
+![](http://img.shields.io/badge/status-abandoned%20by%20author-red.svg)
+
 **[node.io](http://node.io/) is a distributed data scraping and processing framework**
 
 - Jobs are written in Javascript or [Coffeescript](http://jashkenas.github.com/coffee-script/) and run in [Node.JS](http://nodejs.org/) - jobs are concise, asynchronous and _FAST_
@@ -7,7 +9,7 @@
 - Speed up execution by distributing work across multiple processes and (soon) other servers
 - Manage & run jobs through a web interface
 
-Follow [@nodeio](http://twitter.com/nodeio) or visit [http://node.io/](http://node.io/) for updates.
+~~Follow [@nodeio](http://twitter.com/nodeio) or visit [http://node.io/](http://node.io/) for updates.~~
 
 ## Scrape example
 
